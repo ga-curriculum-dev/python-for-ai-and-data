@@ -1,0 +1,11 @@
+product_id,price_usd,category,state
+1,19.99,Accessories,CA
+2,79.0,Peripherals,NY
+3,19.99,Accessories,TX
+4,24.5,Accessories,CA
+5,19.99,Accessories,FL
+6,34.0,Adapters,WA
+7,1999.99,Accessories,CA
+8,49.99,Peripherals,NY
+9,15.0,Adapters,TX
+10,120.0,Peripherals,FL

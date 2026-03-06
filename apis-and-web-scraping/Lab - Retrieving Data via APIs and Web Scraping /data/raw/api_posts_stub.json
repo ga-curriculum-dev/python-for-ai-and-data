@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Intro to APIs",
+    "body": "APIs return structured data such as JSON."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Rate limits",
+    "body": "Respect API rate limits to avoid being blocked."
+  },
+  {
+    "userId": 2,
+    "id": 3,
+    "title": "Parsing JSON",
+    "body": "Convert JSON responses into DataFrames for analysis."
+  },
+  {
+    "userId": 2,
+    "id": 4,
+    "title": "Web scraping",
+    "body": "Use BeautifulSoup to parse HTML when no API exists."
+  },
+  {
+    "userId": 3,
+    "id": 5,
+    "title": "Ethics",
+    "body": "Always consider TOS, robots.txt, and privacy when collecting data."
+  }
+]

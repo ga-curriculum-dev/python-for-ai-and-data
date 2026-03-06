@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "value": 10,
+    "category": "A"
+  },
+  {
+    "id": 2,
+    "value": 20,
+    "category": "A"
+  },
+  {
+    "id": 3,
+    "value": 30,
+    "category": "B"
+  },
+  {
+    "id": 4,
+    "value": 40,
+    "category": "B"
+  },
+  {
+    "id": 5,
+    "value": 50,
+    "category": "C"
+  }
+]
